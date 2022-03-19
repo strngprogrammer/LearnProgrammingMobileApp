@@ -6,7 +6,7 @@ import 'package:learnwithme/globals.dart' as glo;
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'dart:ui';
-import 'package:youtube_player_webview/youtube_player_webview.dart';
+import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class LessonPage extends StatefulWidget {
   const LessonPage({Key? key}) : super(key: key);
