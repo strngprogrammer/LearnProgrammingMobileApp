@@ -23,9 +23,15 @@ You should change the firebase to your its only for learning so you can learn  m
 
 ScreenShots of design
 
+Login page
+
 <img src="./assets/img/Screenshot_20220320-003154.jpg" width="250" />
 
+reset password
+
 <img src="./assets/img/Screenshot_20220320-003220.jpg" width="250" />
+
+signup
 
 <img src="./assets/img/Screenshot_20220320-003216.jpg" width="250" />
 
