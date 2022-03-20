@@ -23,7 +23,7 @@ You should change the firebase to your its only for learning so you can learn  m
 
 ScreenShots of design
 
-<img src="./assets/img/Screenshot_20220320-003154.jpg"/>
+<img src="./assets/img/Screenshot_20220320-003154.jpg" width="50" />
 
 <img src="./assets/img/Screenshot_20220320-003220.jpg"/>
 
