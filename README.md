@@ -23,17 +23,17 @@ You should change the firebase to your its only for learning so you can learn  m
 
 ScreenShots of design
 
-<img src="./assets/img/Screenshot_20220320-003154.jpg" width="50" />
+<img src="./assets/img/Screenshot_20220320-003154.jpg" width="250" />
 
-<img src="./assets/img/Screenshot_20220320-003220.jpg"/>
+<img src="./assets/img/Screenshot_20220320-003220.jpg" width="250" />
 
-<img src="./assets/img/Screenshot_20220320-003216.jpg"/>
+<img src="./assets/img/Screenshot_20220320-003216.jpg" width="250" />
 
-<img src="./assets/img/Screenshot_20220320-003249.jpg"/>
+<img src="./assets/img/Screenshot_20220320-003249.jpg" width="250" />
 
-<img src="./assets/img/Screenshot_20220320-003245.jpg"/>
+<img src="./assets/img/Screenshot_20220320-003245.jpg" width="250" />
 
-<img src="./assets/img/Screenshot_20220320-003257.jpg"/>
+<img src="./assets/img/Screenshot_20220320-003257.jpg" width="250" />
 
-<img src="./assets/img/Screenshot_20220320-003319.jpg"/>
+<img src="./assets/img/Screenshot_20220320-003319.jpg" width="250" />
 
